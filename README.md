@@ -1,2 +1,2 @@
 # M.-Website
-a personal website
+my personal website
